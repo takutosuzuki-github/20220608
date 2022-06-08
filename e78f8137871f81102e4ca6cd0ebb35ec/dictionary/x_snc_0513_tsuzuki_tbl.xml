@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TBL" max_length="40" name="x_snc_0513_tsuzuki_tbl" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="S01" max_length="40" name="s01" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S02" max_length="40" name="s02" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S03" max_length="40" name="s03" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S04" max_length="40" name="s04" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S05" max_length="40" name="s05" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="S06" max_length="40" name="s06" type="string"/>
+    </element>
+</database>
